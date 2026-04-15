@@ -94,7 +94,7 @@ Open your browser at `http://localhost:8501`
 ## 🧠 How the Agents Work
 
 ### 🔍 Search Agent
-Uses a search tool (e.g. Tavily, SerpAPI, or DuckDuckGo) to find the most recent and relevant web results for the given topic.
+Uses a search tool (e.g. Tavily, SerpAPI, or DuckDuckG) to find the most recent and relevant web results for the given topic.
 
 ### 📄 Reader Agent
 Takes the top search result URLs, picks the most relevant one, and scrapes its full content for deeper research material.
