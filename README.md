@@ -23,9 +23,7 @@ The final output is a downloadable `.md` research report with critic feedback �
 
 ## 🖥️ Demo
 
-![ResearchMind UI](https://via.placeholder.com/900x500?text=ResearchMind+Screenshot)
-
-> Replace the above with an actual screenshot of your app.
+Live: https://researchmindagentanix.streamlit.app/
 
 ---
 
