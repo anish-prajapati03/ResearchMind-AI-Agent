@@ -78,6 +78,8 @@ Then edit `.env` and add your API keys:
 OPENAI_API_KEY=your_openai_key_here
 # or
 GROQ_API_KEY=your_groq_key_here
+or
+Also Used Free LLM Model Api_key
 ```
 
 ### 5. Run the app
